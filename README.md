@@ -1,2 +1,11 @@
 # Regression-model---Insurance-Premium-price-Prediction
-## Used Models
+## Used Models:
+LinearRegression 
+Ridge 
+Lasso
+ElasticNet 
+SVR
+DecisionTreeRegressor
+RandomForestRegressor 
+GradientBoostingRegressor
+MLPRegressor
